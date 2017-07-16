@@ -6,3 +6,11 @@ C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\Estacionamento.Negoc
 C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\Estacionamento.Negocio.pdb
 C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\obj\Debug\OperacoesService.dll
 C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\obj\Debug\OperacoesService.pdb
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\bin\OperacoesService.dll.config
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\bin\OperacoesService.dll
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\bin\OperacoesService.pdb
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\bin\Estacionamento.Negocio.dll
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\bin\Estacionamento.Negocio.pdb
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\obj\Debug\OperacoesService.csprojResolveAssemblyReference.cache
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\obj\Debug\OperacoesService.dll
+C:\Users\Suporte\Desktop\puc.net.lab2\OperacoesService\obj\Debug\OperacoesService.pdb

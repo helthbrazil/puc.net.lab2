@@ -20,7 +20,23 @@ namespace Estacionamento.Apresentacao
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
+            string placa = textBox1.Text;
+
+            try
+            {
+
+
+                var proxy = new ServiceReference1.Service1Client();
+                proxy.CheckIn(placa);
+
+                MessageBox.Show(String.Format("Placa '{0}' adicionada.", placa));
+                textBox1.Text = string.Empty;
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -29,8 +45,8 @@ namespace Estacionamento.Apresentacao
 
             try
             {
-                var proxy = new EstacionamentoService.Service1Client();
-                var valor = proxy.Run(placa);
+                var proxy = new ServiceReference1.Service1Client();
+                var valor = proxy.CheckOut(placa);
 
                 proxy.Close();
 

@@ -12,8 +12,13 @@ namespace OperacoesService
     [ServiceContract]
     public interface IService1
     {
+      
+
         [OperationContract]
-        Double Run(string placa);
+        Double CheckOut(string placa);
+
+        [OperationContract]
+        void CheckIn(string placa);
 
 
         // TODO: Add your service operations here

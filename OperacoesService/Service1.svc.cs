@@ -13,10 +13,14 @@ namespace OperacoesService
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-
-        public double Run(string placa)
+        public void CheckIn(string placa)
         {
-            return Operacoes.Checkout(placa);            
+            Operacoes.Checkin(placa);
         }
+
+        public double CheckOut(string placa)
+        {
+            return Operacoes.Checkout(placa);
+        }      
     }
 }

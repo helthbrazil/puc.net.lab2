@@ -7,3 +7,12 @@ C:\Users\885380\Desktop\TP2\TP1-master\Estacionamento.Apresentacao\obj\Debug\Est
 C:\Users\885380\Desktop\TP2\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csproj.GenerateResource.Cache
 C:\Users\885380\Desktop\TP2\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.exe
 C:\Users\885380\Desktop\TP2\TP1-master\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.pdb
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe.config
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.exe
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\bin\Debug\Estacionamento.Apresentacao.pdb
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.EstacionamentoForm.resources
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.Properties.Resources.resources
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.exe
+C:\Users\Suporte\Desktop\puc.net.lab2\Estacionamento.Apresentacao\obj\Debug\Estacionamento.Apresentacao.pdb
