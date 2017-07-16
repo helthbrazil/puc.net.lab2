@@ -1,0 +1,8 @@
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\obj\Debug\OperacoesService.csprojResolveAssemblyReference.cache
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\OperacoesService.dll.config
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\OperacoesService.dll
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\OperacoesService.pdb
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\Estacionamento.Negocio.dll
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\bin\Estacionamento.Negocio.pdb
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\obj\Debug\OperacoesService.dll
+C:\Users\885380\Desktop\TP2\TP1-master\OperacoesService\obj\Debug\OperacoesService.pdb
